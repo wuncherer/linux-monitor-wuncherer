@@ -1,4 +1,5 @@
 #!/bin/bash
+# Team status monitoring script
 echo "TEAM STATUS REPORT"
 hostname
 whoami
