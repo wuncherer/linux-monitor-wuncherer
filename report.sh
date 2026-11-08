@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "BELA STATUS REPORT"
+echo "TEAM STATUS REPORT"
 hostname
 whoami
 date '+%Y-%m-%d'
