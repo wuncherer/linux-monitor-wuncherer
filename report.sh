@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "PROJECT STATUS REPORT"
+echo "ANNA STATUS REPORT"
 hostname
 whoami
 date '+%Y-%m-%d'
